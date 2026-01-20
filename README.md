@@ -30,4 +30,4 @@ My goal is to build a strong foundation in **Data Processing** and **Model Build
 
 
 ---
-*Created by **Gia Hung (Hary Hoang)** - UIT Freshman*
+*Created by **Harry Hoang** - UITer
